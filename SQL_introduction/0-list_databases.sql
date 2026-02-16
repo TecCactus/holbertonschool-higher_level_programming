@@ -1,3 +1,2 @@
--- List all databases
--- SQL Introduction - Holberton
+-- list all databases
 SHOW DATABASES;
